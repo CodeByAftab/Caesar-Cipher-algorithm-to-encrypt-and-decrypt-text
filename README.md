@@ -11,7 +11,7 @@ To run this project, follow these steps:
    ```bash
    git clone https://github.com/Aftab571-a/your-repository-name.git
    ```
-   Replace `your-repository-name` with the actual name of your GitHub repository.
+  
 
 2. **Install Dependencies:**
    No external libraries are required for this project. Make sure you have Python installed.
